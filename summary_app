@@ -1,0 +1,36 @@
+Smart & Safe Travel Companion App
+Project Overview
+
+Developed a Smart & Safe Travel Companion application designed to help solo and budget-conscious travelers identify safer travel destinations, hotels, restaurants and nearby facilities using Machine Learning and Natural Language Processing (NLP).
+Objectives
+- Improve travel safety for solo travelers.
+- Analyze hotel and restaurant reviews to identify safety-related concerns.
+- Provide safety scores based on review sentiment.
+- Help travelers identify nearby facilities.
+- Support emergency assistance and night-time safety.
+Key Features
+1. Sentiment Analysis: Analyzes travel reviews to identify positive and negative safety-related feedback.
+2. Safety Analysis: Uses NLP and Machine Learning to assess safety concerns.
+3. Nearby Places: Helps users explore nearby hotels and restaurants.
+4. Budget Planning: Helps travelers manage their travel expenses.
+5. Night-Time Safety Mode: Provides additional safety support after 8 PM.
+6. Emergency SOS: Provides an emergency assistance feature.
+Technologies Used
+- Python
+- Django and Django REST Framework
+- React
+- Machine Learning
+- NLP
+- BERT
+- SVM
+- SQLite
+- Leaflet Maps
+Project Workflow
+1. Collect travel-related reviews.
+2. Clean and preprocess review data.
+3. Apply NLP techniques for sentiment analysis.
+4. Use BERT and SVM for review classification.
+5. Generate safety scores.
+6. Display nearby travel facilities and safety information.
+Project Outcome
+Designed an AI-powered travel companion concept that combines sentiment analysis, safety assessment and budget-friendly travel assistance to support safer journeys.
